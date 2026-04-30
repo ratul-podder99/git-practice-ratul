@@ -17,3 +17,10 @@ This project is created to practice the basic workflow of Git and GitHub.
 - Branch merging
 - GitHub remote push
 - Basic calculator program using Python
+
+## How to Run
+
+Run the project using:
+
+# bash
+python src/main.py
