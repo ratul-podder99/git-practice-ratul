@@ -1,7 +1,19 @@
 # Git Practice Project
 
-## Student Name
-Ratul Podder
+## Student Information
 
-## Project Description
-This project is created for practicing Git and GitHub commands including commits, branches, merging, and pushing code to GitHub.
+**Name:** Ratul Podder  
+**Course:** Git and GitHub Practical Assignment  
+
+## About This Project
+
+This project is created to practice the basic workflow of Git and GitHub.
+
+## Features
+
+- Git repository initialization
+- Multiple commits
+- Branch creation
+- Branch merging
+- GitHub remote push
+- Basic calculator program using Python
