@@ -1,10 +1,21 @@
 # Project Description
 
-This project demonstrates basic Git and GitHub workflow.
+This is a practical Git and GitHub project.
 
-It includes:
-- Creating a local Git repository
-- Making commits
-- Working with branches
-- Merging branches
-- Pushing code to GitHub
+The purpose of this project is to learn how to manage a local repository and connect it with GitHub.
+
+## Tasks Completed
+
+- Created a public GitHub repository
+- Initialized a local Git repository
+- Added project files and folders
+- Created multiple commits
+- Created and merged feature branches
+- Added calculator functions
+- Pushed the project to GitHub
+
+## Technologies Used
+
+- Git
+- GitHub
+- Python
