@@ -4,6 +4,10 @@ This is a practical Git and GitHub project.
 
 The purpose of this project is to learn how to manage a local repository and connect it with GitHub.
 
+## Author
+
+Ratul Podder
+
 ## Tasks Completed
 
 - Created a public GitHub repository
